@@ -1,7 +1,7 @@
-# grub-btrfs RPM build
+# grub-btrfs copr build
 
-For more information see: https://github.com/Antynea/grub-btrfs
+https://copr.fedorainfracloud.org/coprs/smurf/grub-btrfs/
 
-## Building
-
-First pull the sources with `pull-sources.sh` then `rpmbuild -ba SPECS/grub-btrfs.spec`
+```
+dnf copr enable smurf/grub-btrfs
+```
