@@ -1,7 +1,7 @@
 %global debug_package %{nil}
 %global _default_patch_fuzz 1
 Name:           grub-btrfs
-Version:        4.14
+Version:        4.15
 Release:	0
 Summary:	Automatically add snapshots to your grub entry
 License:	GPLv3
