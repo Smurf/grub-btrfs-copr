@@ -1,12 +1,3 @@
-From 86ac5d03f6729534c6b90ae5449bf629ee906103 Mon Sep 17 00:00:00 2001
-From: Sam Coles <me@smurf.codes>
-Date: Sat, 5 Sep 2026 23:11:34 -0400
-Subject: [PATCH] Fix paths for fedora
-
----
- config | 4 ++--
- 1 file changed, 2 insertions(+), 2 deletions(-)
-
 diff --git a/config b/config
 index 9f8d582..8642626 100644
 --- a/config
